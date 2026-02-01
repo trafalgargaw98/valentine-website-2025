@@ -24,7 +24,7 @@ const CONFIG = {
         first: {
             text: "Ti piaccio?",                                    // First interaction
             yesBtn: "Si",                                             // Text for "Yes" button
-            noBtn: "Np",                                               // Text for "No" button
+            noBtn: "No",                                               // Text for "No" button
             secretAnswer: "Non mi piaci, Ti amo! ❤️"           // Secret hover message
         },
         second: {
@@ -43,8 +43,8 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WOOOOW Mi ami così tanto?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        high: "UUUUUUSSSS! 🚀💝",              // Shows when they go past 1000%
+        normal: "WOOO! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
